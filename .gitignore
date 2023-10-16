@@ -160,4 +160,6 @@ dmypy.json
 cython_debug/
 
 # Internal files
-config.py
+src/config.py
+
+*.idea
